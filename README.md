@@ -1,5 +1,5 @@
 # Talis Information
-<h1>Talis - Elevate</h1>
+<h1>Talis - Aspire</h1>
 
 <h2>Description</h2>
 <br/>This project gives detailed information of the various modes of resources (Module items) used in various modules which are taught in the University across all campuses, their significance, total item count and total Users Count in accessing those resources.
